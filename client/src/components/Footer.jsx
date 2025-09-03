@@ -28,7 +28,7 @@ const Footer = () => {
 
 
       </div>
-      <p className='py-4 text-center text-sm md:text-base text-gray-500/80'>Copyright 2025 © IntelliSync Blog GreatStack - All Right Reserved.</p>
+      <p className='py-4 text-center text-sm md:text-base text-gray-500/80'>Copyright 2025 © IntelliSync Blog - All Right Reserved.</p>
     </div>
   )
 }
